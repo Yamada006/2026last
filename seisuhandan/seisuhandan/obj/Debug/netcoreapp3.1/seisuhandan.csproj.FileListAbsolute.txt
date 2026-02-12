@@ -1,0 +1,13 @@
+C:\Users\student\Documents\GitHub\2026last\seisuhandan\seisuhandan\bin\Debug\netcoreapp3.1\seisuhandan.exe
+C:\Users\student\Documents\GitHub\2026last\seisuhandan\seisuhandan\bin\Debug\netcoreapp3.1\seisuhandan.deps.json
+C:\Users\student\Documents\GitHub\2026last\seisuhandan\seisuhandan\bin\Debug\netcoreapp3.1\seisuhandan.runtimeconfig.json
+C:\Users\student\Documents\GitHub\2026last\seisuhandan\seisuhandan\bin\Debug\netcoreapp3.1\seisuhandan.runtimeconfig.dev.json
+C:\Users\student\Documents\GitHub\2026last\seisuhandan\seisuhandan\bin\Debug\netcoreapp3.1\seisuhandan.dll
+C:\Users\student\Documents\GitHub\2026last\seisuhandan\seisuhandan\bin\Debug\netcoreapp3.1\seisuhandan.pdb
+C:\Users\student\Documents\GitHub\2026last\seisuhandan\seisuhandan\obj\Debug\netcoreapp3.1\seisuhandan.csprojAssemblyReference.cache
+C:\Users\student\Documents\GitHub\2026last\seisuhandan\seisuhandan\obj\Debug\netcoreapp3.1\seisuhandan.AssemblyInfoInputs.cache
+C:\Users\student\Documents\GitHub\2026last\seisuhandan\seisuhandan\obj\Debug\netcoreapp3.1\seisuhandan.AssemblyInfo.cs
+C:\Users\student\Documents\GitHub\2026last\seisuhandan\seisuhandan\obj\Debug\netcoreapp3.1\seisuhandan.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\GitHub\2026last\seisuhandan\seisuhandan\obj\Debug\netcoreapp3.1\seisuhandan.dll
+C:\Users\student\Documents\GitHub\2026last\seisuhandan\seisuhandan\obj\Debug\netcoreapp3.1\seisuhandan.pdb
+C:\Users\student\Documents\GitHub\2026last\seisuhandan\seisuhandan\obj\Debug\netcoreapp3.1\seisuhandan.genruntimeconfig.cache
